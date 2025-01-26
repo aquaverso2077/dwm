@@ -9,6 +9,7 @@
 | barpadding | - | - | - |
 | barheight | - | - | - |
 | alwayscenter | - | - | - |
+| xf86keysym | - | - | - |
 | ~cfacts~ |
 ---
 ## Gruvbox theme:
