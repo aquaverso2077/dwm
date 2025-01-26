@@ -1,3 +1,6 @@
+| DWM |
+|--:|
+|![image](https://github.com/user-attachments/assets/97fcde08-8e7e-4415-b84d-2d34566fb552)|
 # Patches
 | DWM | DMENU | ST| SLSTATUS | SLOCK |
 |:-- |:--:| :--:|  :--:| --:|
