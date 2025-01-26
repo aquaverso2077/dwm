@@ -1,15 +1,15 @@
 # Patches
-| DWM | DMENU | ST| SLSTATUS |
-|:-- |:--:| :--:|  --:|
-| colorbar | center    | scroll    | status2d |
-| gaps | border | vertcenter | - |
-| alttag | - | - | - |
-| pertag | - | - | - |
-| movestack | - | - | - |
-| barpadding | - | - | - |
-| barheight | - | - | - |
-| alwayscenter | - | - | - |
-| xf86keysym | - | - | - |
+| DWM | DMENU | ST| SLSTATUS | SLOCK |
+|:-- |:--:| :--:|  :--:| --:|
+| colorbar | center    | scroll    | status2d | background |
+| gaps | border | vertcenter |
+| alttag | 
+| pertag | 
+| movestack |
+| barpadding |
+| barheight |
+| alwayscenter |
+| xf86keysym | 
 | ~cfacts~ |
 ---
 ## Gruvbox theme:
