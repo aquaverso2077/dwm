@@ -1,6 +1,9 @@
 | DWM |
 |--:|
 |![image](https://github.com/user-attachments/assets/97fcde08-8e7e-4415-b84d-2d34566fb552)|
+| Telegram |
+|![image](https://github.com/user-attachments/assets/0034e1c3-da0a-495b-abb7-3769537d288c)|
+|https://t.me/addtheme/bkKo9Uet6TVCdruS|
 # Patches
 | DWM | DMENU | ST| SLSTATUS | SLOCK |
 |:-- |:--:| :--:|  :--:| --:|
