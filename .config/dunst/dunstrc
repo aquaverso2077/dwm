@@ -1,0 +1,37 @@
+[global]
+    font = "Terminess Nerd Font 14"
+    format = "<b>%s</b>\n%b"
+    sort = yes
+    indicate_hidden = yes
+    alignment = left
+    show_age_threshold = 60
+    word_wrap = yes
+    idle_threshold = 120
+    follow = mouse
+    sticky_history = yes
+    separator_height = 2
+    padding = 8
+    horizontal_padding = 8
+    separator_color = "#5E81AC"
+    icon_position = right
+    max_icon_size = 96
+# icon_theme = av2
+    enable_recursive_icon_lookup = true
+    mouse_left_click = do_action
+    frame_color = "#93947b"
+    frame_width = 2
+
+[urgency_low]
+    background = "#282828"
+    foreground = "#D8DEE9"
+    timeout = 5
+
+[urgency_normal]
+    background = "#282828"
+    foreground = "#D8DEE9"
+    timeout = 20
+
+[urgency_critical]
+    background = "#282828"
+    foreground = "#D8DEE9"
+    timeout = 0

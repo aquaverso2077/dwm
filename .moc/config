@@ -1,0 +1,19 @@
+##https://github.com/aquaverso2077
+Layout1 = directory(0,0,100%,100%)
+MusicDir = "$HOME/Music"
+Repeat = no 
+Shuffle = no
+AutoNext = yes
+SoundDriver = PULSEAUDIO::ALSA
+ShowHiddenFiles = no
+StartInMusicDir = yes
+HideFileExtension = no
+ShowFormat = no
+ShowTime = IfAvailable
+Theme = tty
+UseRCC = yes 
+UseRCCForFilesystem = yes
+SavePlaylist = yes
+PlaylistNumbering = yes
+PlaylistFullPaths = no
+OnSongChange = $HOME/.moc/moc-notify.sh
