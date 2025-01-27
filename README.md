@@ -5,12 +5,24 @@
 |![image](https://github.com/user-attachments/assets/99100127-1a87-45d2-8dc5-0dc7be2070b7)|
 |DMENU|
 |![image](https://github.com/user-attachments/assets/068556ca-993d-4949-8ec6-09320e10fbb7)|
-|WALLPAPERCHANGER|
-|~/.local/bin/wallpaper.sh|
+|MOC|
+|![image](https://github.com/user-attachments/assets/b19e8418-1497-4316-be96-4234ab0c3b5c)|
+
 ### Telegram-desktop theme
 >**How install:**
 https://t.me/addtheme/bkKo9Uet6TVCdruS
 >>![image](https://github.com/user-attachments/assets/0034e1c3-da0a-495b-abb7-3769537d288c)
+---
+### WALLPAPERCHANGER
+>/.local/bin/wallpaper.sh
+>> Keybind F11
+### POWERMENU
+>> Keybind Super + x
+### BLUETUITH
+>> Keybind Super + c
+### PULSEMIXER
+>> Keybind Super + v
+---
 # Patches
 | DWM | DMENU | ST| SLSTATUS | SLOCK |
 |:-- |:--:| :--:|  :--:| --:|
