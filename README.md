@@ -1,6 +1,12 @@
 |DWM|
 |--:|
 |![image](https://github.com/user-attachments/assets/97fcde08-8e7e-4415-b84d-2d34566fb552)|
+|POWERMENU ~/.local/bin/powemenu.sh|
+|![image](https://github.com/user-attachments/assets/99100127-1a87-45d2-8dc5-0dc7be2070b7)|
+|DMENU|
+|![image](https://github.com/user-attachments/assets/068556ca-993d-4949-8ec6-09320e10fbb7)|
+|WALLPAPERCHANGER|
+|~/.local/bin/wallpaper.sh|
 ### Telegram-desktop theme
 >**How install:**
 https://t.me/addtheme/bkKo9Uet6TVCdruS
