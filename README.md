@@ -33,6 +33,7 @@ https://t.me/addtheme/bkKo9Uet6TVCdruS
 ## Slstatus depends:
 + libxft
 + brightnessctl
++ bluetoothctl
 + alsa-utils
 + pacman-contrib
 
