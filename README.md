@@ -25,6 +25,7 @@ https://t.me/addtheme/bkKo9Uet6TVCdruS
 + telegram
 
 ## DWM depends:
++ ttf-terminus-nerd
 + libxinerama
 + freetype2
 + fontconfig
