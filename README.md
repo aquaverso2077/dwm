@@ -22,6 +22,8 @@ https://t.me/addtheme/bkKo9Uet6TVCdruS
 >> Keybind Super + c
 ### PULSEMIXER
 >> Keybind Super + v
+### READING MODE
+>> Keybind Super + F10
 ---
 # Patches
 | DWM | DMENU | ST| SLSTATUS | SLOCK |
