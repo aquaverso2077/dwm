@@ -24,6 +24,8 @@ https://t.me/addtheme/bkKo9Uet6TVCdruS
 >> Keybind Super + v
 ### READING MODE
 >> Keybind Super + F10
+### RESTART SLSTATUS
+>> Keybind Super + F11
 ---
 # Patches
 | DWM | DMENU | ST| SLSTATUS | SLOCK |
