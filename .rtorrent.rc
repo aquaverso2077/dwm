@@ -1,0 +1,10 @@
+max_memory_usage = 1G
+directory.default.set =/home/av/Videos/torrent
+session.path.set = ~/.rtorrent.session
+schedule2 = watch_directory,5,5,load.start=/home/av/rtorrent/*.torrent
+protocol.encryption.set = allow_incoming,enable_retry,prefer_plaintext
+dht.mode.set = auto
+dht.port.set = 6881
+protocol.pex.set = yes
+ui.torrent_list.layout.set = "compact"
+network.scgi.open_port = "127.0.0.1:5000"
