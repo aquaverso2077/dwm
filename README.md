@@ -58,7 +58,7 @@ https://t.me/addtheme/bkKo9Uet6TVCdruS
 + bluetoothctl
 + alsa-utils
 + pacman-contrib
-# Autologin
+# Autologin:
 ## OpenRC
 >/etc/conf.d//etc/conf.d/agetty.tty1
 >>agetty_options="--autologin [username] --noclear"
