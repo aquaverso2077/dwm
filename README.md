@@ -1,3 +1,8 @@
+# Upcoming updates
++ Solarized theme
++ Pixel font
++ New patches
+
 |DWM|
 |--:|
 |![image](https://github.com/user-attachments/assets/97fcde08-8e7e-4415-b84d-2d34566fb552)|
