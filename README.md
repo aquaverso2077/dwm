@@ -1,6 +1,5 @@
 # Upcoming updates
 + Solarized theme
-+ Pixel font
 + New patches
 
 |DWM|
