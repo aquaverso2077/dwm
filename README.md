@@ -1,4 +1,5 @@
 # Upcoming updates
++ Catppuccin-Latte theme
 + Solarized theme
 + New patches
 
