@@ -1,7 +1,7 @@
 # Upcoming updates
 + Catppuccin-Latte theme
 + Solarized theme
-+ New patches
++ ~New patches~
 
 |DWM|
 |--:|
@@ -44,7 +44,8 @@ https://t.me/addtheme/bkKo9Uet6TVCdruS
 | barheight |
 | alwayscenter |
 | xf86keysym | 
-| ~cfacts~ |
+| cfacts |
+| selfrestart |
 ## Gruvbox theme:
 + gtk3-theme
 + icons
