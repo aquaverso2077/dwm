@@ -2,7 +2,7 @@
 static const unsigned int borderpx  = 2;
 static const unsigned int snap      = 24;
 static const int showbar            = 1;
-static const int topbar             = 0;
+static const int topbar             = 1;
 static const unsigned int gappx     = 4;
 static const char *fonts[]          = { "Terminess Nerd Font:size=14" };
 static const int vertpad            = 8;       /* vertical padding of bar */
@@ -14,12 +14,17 @@ static const int user_bh						= 48;
 
 /* XF86* keys */
 #include <X11/XF86keysym.h>
+
 /* Movestack */
 #include "movestack.c"
 
+/* Selfrestart */
+#include "selfrestart.c"
+
 /* workspace */
-static const char *tags[] = { "󱗝", "󱗝", "󱗝", "󱗝", "󱗝" };
-static const char *alttags[] = { "󱗜", "󱗜", "󱗜", "󱗜", "󱗜" };
+/*static const char *tags[] = { "1", "2", "3", "4", "5" };*/
+static const char *tags[] = { " ", " ", " ", " ", " " };
+static const char *alttags[] = { " ", " ", " ", " ", " " };
 
 static const Rule rules[] = {
 	/* class      instance    title       tags mask     isfloating   monitor */
@@ -147,6 +152,9 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_d,      incnmaster,     {.i = -1 } },
 	{ MODKEY,                       XK_h,      setmfact,       {.f = -0.05} },
 	{ MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },
+	{ MODKEY|ShiftMask,             XK_h,      setcfact,       {.f = +0.25} },
+	{ MODKEY|ShiftMask,             XK_l,      setcfact,       {.f = -0.25} },
+	{ MODKEY|ShiftMask,             XK_o,      setcfact,       {.f =  0.00} },
 	{ MODKEY|ShiftMask,             XK_j,      movestack,      {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_k,      movestack,      {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_Return, zoom,           {0} },
@@ -166,6 +174,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_minus,  setgaps,        {.i = -1 } },
 	{ MODKEY,                       XK_equal,  setgaps,        {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_equal,  setgaps,        {.i = 0  } },
+	{ MODKEY|ShiftMask,             XK_r,      self_restart,   {0} },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
